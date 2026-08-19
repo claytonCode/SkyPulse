@@ -1,0 +1,5 @@
+- [x] Update `gradle/libs.versions.toml` with serialization plugin and library
+- [x] Update root `build.gradle.kts` to include serialization plugin
+- [x] Update `app/build.gradle.kts` to apply plugin and add dependency
+- [x] Update `app/src/main/java/com/example/skypulse/view/navigation/AppNavHost.kt` to fix import
+- [x] Run Gradle Sync and verify build
